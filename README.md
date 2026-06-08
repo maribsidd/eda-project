@@ -1,7 +1,5 @@
 # 🔍 Exploratory Data Analysis (EDA) Project
 
-> **Internship Task 3** | Due: 22 Jun 2026  
-> Skills: Statistical Analysis · Data Visualization · Correlation Analysis · Insight Reporting
 
 ---
 
@@ -137,4 +135,4 @@ Auto-generated `eda_report.txt` with 10 sections covering:
 
 ## 👤 Author
 
-**[Your Name]** | Learning Intern | June 2026
+**Mohd Marib**
